@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Sudip<h1 align="center">Hi 👋, I'm Sudip Modak</h1>
+<h1 align="center">Hi 👋, I'm Sudip Modak</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3N1MXVuMjFwcnh1dGU5M2ZrOXcydG8ydDB4YnF3ZHBic2ZiOGhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtTnAfZn6aVJfBzlN3/source.gif">
 
