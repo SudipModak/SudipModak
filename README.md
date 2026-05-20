@@ -10,20 +10,23 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sudipmodak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="sudipmodak" />
+  <img src="https://komarev.com/ghpvc/?username=sudipmodak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="sudipmodak" />
 </p>
 
-<img align="right" alt="coding" width="370" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3N1MXVuMjFwcnh1dGU5M2ZrOXcydG8ydDB4YnF3ZHBic2ZiOGhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtTnAfZn6aVJfBzlN3/source.gif">
+<p align="center">
+  <img alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3N1MXVuMjFwcnh1dGU5M2ZrOXcydG8ydDB4YnF3ZHBic2ZiOGhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtTnAfZn6aVJfBzlN3/source.gif">
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Pursuing **M.Sc in Data Science & Analytics**
 
 💼 Currently working at **Quick Movers Logistics, Kolkata** in the **Logistics & Supply Chain** domain as an **Analyst**
 
 📊 Experienced in:
+
 - SQL & Database Management
 - Python for Data Analysis & Automation
 - Power BI Dashboard Development
@@ -32,6 +35,7 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 - Operational & Supply Chain Analytics
 
 🤖 Expanding expertise in:
+
 - Machine Learning & Deep Learning
 - MLOps & End-to-End ML Deployment
 - Docker & Containerization
@@ -41,12 +45,13 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 🌱 Passionate about solving real-world business problems using Data, AI, and Automation.
 
-⚡ Fun Fact  
+⚡ Fun Fact
+
 > *"Data whisperer: I talk to datasets, they lie, and I still find the truth."*
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sudip-modak-6173a9283" target="blank">
@@ -58,9 +63,10 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Analytics
+## 👨‍💻 Languages & Analytics
+
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
@@ -87,7 +93,8 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-### 📊 BI & Visualization
+## 📊 BI & Visualization
+
 <p align="left">
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
@@ -102,7 +109,8 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-### ⚙️ ML Engineering & Tools
+## ⚙️ ML Engineering & Tools
+
 <p align="left">
 
 <a href="https://www.docker.com/" target="_blank">
@@ -121,7 +129,7 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 - 🚀 Building production-ready Data Science projects
 - 📚 Learning scalable ML systems & MLOps
@@ -131,7 +139,7 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sudipmodak&show_icons=true&theme=tokyonight" />
@@ -145,7 +153,7 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-## 🧠 Core Interests
+# 🧠 Core Interests
 
 - Data Science
 - Machine Learning
@@ -158,7 +166,7 @@ Building intelligent, scalable, and data-driven solutions through Analytics, Mac
 
 ---
 
-## ✨ Professional Vision
+# ✨ Professional Vision
 
 > Building impactful AI-driven solutions that bridge the gap between business problems and intelligent technology.
 
